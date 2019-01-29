@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
+title: Bisso Blog
 email: whiskyhwa3@gmail.com
 name: Bisso
 description: "Jekyll theme for Blog"
